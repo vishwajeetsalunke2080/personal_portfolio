@@ -9,22 +9,22 @@ body{
     
     background-color: #E4F9F5;
     position:relative;
-    padding-top: 6.25%;
+    padding-top: 6.25rem;
 }
 
 .top_cloud{
     position:absolute;
-    right:18.75%;
-    top:3.125%;
+    right:18.75rem;
+    top:3.125rem;
 }
 
 .bottom_cloud{
     position:absolute;
-    left:18.75%;
-    bottom:18.75%;    
+    left:18.75rem;
+    bottom:18.75rem;    
 }
 h1{
-    margin:3.125% auto 0px auto;
+    margin:50px auto 0px auto;
     font-family: 'Beau Rivage', cursive;
     font-size: 5.625rem;
 }
